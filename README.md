@@ -46,6 +46,8 @@ I cloned the freeCodeCamp repo from Github.
 - Express.js
 - Node.js
 - Javascript
+- Multer
+- File upload
 
 ## Source Code?
 
